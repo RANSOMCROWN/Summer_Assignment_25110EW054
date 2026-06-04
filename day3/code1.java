@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class code1 {
@@ -6,7 +5,7 @@ public class code1 {
 
         Scanner sc = new Scanner(System.in);
 
-        int num, count = 0;
+        int num, count = 0; 
 
         System.out.print("Enter a number: ");
         num = sc.nextInt();
